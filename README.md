@@ -1,7 +1,5 @@
 # HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding
 
------
-
 <p align="center">
     🤓 <a href="https://github.com/Fantasyele/HV-MMBench">GitHub</a> &nbsp&nbsp | 📑 <a href="https://arxiv.org/">Paper</a> &nbsp&nbsp | 🤗 <a href="https://huggingface.co/datasets/ccaiyuxuan/HVMMBench/tree/main">Hugging Face (HV-MMBench Dataset))</a>&nbsp&nbsp
 <br>
